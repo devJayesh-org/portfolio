@@ -44,7 +44,7 @@ body>img {
 
 /* black screen */
 .black {
-    display: none;
+    /* display: none; */
     position: absolute;
     width: 100%;
     height: 100vh;
@@ -98,7 +98,7 @@ body>img {
 
 /* green screen */
 .green {
-    display: none;
+    /* display: none; */
     position: absolute;
     width: 100%;
     top: 100%;
