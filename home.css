@@ -393,8 +393,8 @@ body>img {
     overflow: hidden;
 }
 .first-img img {
-    height: 110%;
-    width: 110%;
+    height: 120%;
+    width: 120%;
 }
 .fw-row-1 .secand-img {
     height: 32vw;
@@ -404,8 +404,8 @@ body>img {
     overflow: hidden;
 }
 .secand-img img {
-    height: 110%;
-    width: 110%;
+    height: 120%;
+    width: 120%;
 }
 .fw-row-2 {
     display: flex;
